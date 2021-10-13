@@ -1,4 +1,4 @@
-# gettingstarted
+# GettingStarted
 
 ## How to edit 
 
